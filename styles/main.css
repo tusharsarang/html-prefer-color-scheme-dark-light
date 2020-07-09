@@ -1,0 +1,26 @@
+@import "navbar.css";
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  background-color: var(--bg-primary-color);
+  color: var(--primary-text-color);
+  transition: color 0.5s ease, background-color 0.5s ease;
+}
+
+.home {
+  width: 100vw;
+  height: 100vh;
+  background-position: center top;
+  background-size: cover;
+  background-image: var(--home-image-url);
+}
+
+#brandIcon {
+  height: 36px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  content: var(--nav-logo-icon-url);
+}

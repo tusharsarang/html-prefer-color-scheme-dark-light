@@ -1,0 +1,9 @@
+:root {
+  --bg-primary-color: #131215;
+  --bg-secondary-color: #686e81;  
+  --primary-text-color: #D4D4D4;
+  --secondary-text-color: #DFFB42;
+  --home-image-url: url("https://pixabay.com/get/54e5dd4a4b52a914f6d1867dda293179153dd6e3574c704c7c2b79dd9744c05d_1920.jpg");
+  --nav-logo-icon-url: url("../images/full-moon.png");
+}
+

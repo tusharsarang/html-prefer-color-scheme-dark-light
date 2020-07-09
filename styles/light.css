@@ -1,0 +1,9 @@
+:root {
+  --bg-primary-color: #FDFDFD;
+  --bg-secondary-color: #F0EFEF;  
+  --primary-text-color: #2D466C;
+  --secondary-text-color: #449CAB;
+  --home-image-url: url("https://pixabay.com/get/57e8d6444a52ac14f6d1867dda293179153dd6e3574c704c7c2b79dd9744c058_1920.jpg");
+  --nav-logo-icon-url: url("../images/new-moon.png");
+}
+  
